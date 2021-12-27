@@ -24,8 +24,7 @@ namespace gps {
             case MOVE_BACKWARD: cameraPosition -= camSpeed * cameraFrontDirection; break;
             case MOVE_LEFT: cameraPosition -= glm::normalize(glm::cross(cameraFrontDirection, cameraUpDirection)) * camSpeed; break;
             case MOVE_RIGHT: cameraPosition += glm::normalize(glm::cross(cameraFrontDirection, cameraUpDirection)) * camSpeed; break;
-            default:
-                break;
+            default: break;
         }
     }
 
