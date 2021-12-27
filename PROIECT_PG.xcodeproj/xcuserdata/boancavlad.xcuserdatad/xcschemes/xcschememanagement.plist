@@ -4,10 +4,18 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>OpenGL_First.xcscheme_^#shared#^_</key>
+		<key>PROIECT_PG.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>1BDE7D32271830C4002F9758</key>
+		<dict>
+			<key>primary</key>
+			<true/>
 		</dict>
 	</dict>
 </dict>
